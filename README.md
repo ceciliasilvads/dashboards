@@ -1,9 +1,10 @@
 # 📊 Dashboard: Video Games Sales by 2016
 
 ![imagem da dashboard](https://github.com/cecellhax/video-games-sales-2016/blob/main/gamesdash.PNG)
+
  - Essa é uma dashboard analítica onde é possivel observar e analisar as vendas de video games em todo o mundo.
 
-- A dashboard pode ser vista em: [**Video Games Sales by 2016**](https://datastudio.google.com/u/0/reporting/6a336f1e-e318-43b2-9b48-a6a93ddac672/page/3hNXC)
+- Pode ser visualizada em: [**Video Games Sales by 2016**](https://datastudio.google.com/u/0/reporting/6a336f1e-e318-43b2-9b48-a6a93ddac672/page/3hNXC)
 
 ## 🎲 Dados 
 
