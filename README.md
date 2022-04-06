@@ -6,14 +6,28 @@
 
 🔧 Google Data Studio
 
-![imagem da dashboard](https://github.com/cecellhax/video-games-sales-2016/blob/main/gamesdash.PNG)
+![imagem da dashboard](https://github.com/ceciliasilvads/dashboards/blob/main/gamesdash.PNG)
 
-# 📊 Análise do Setor de Logística
+# 📊 Resultados do Setor de Logística
 
-🎲 Essa é uma dashboard analítica onde é possível observar os resultados dos setor de logítica de uma empresa.
-
-👀 
+🎲 Análise e reporte dos resultados do setor de logítica de uma empresa.
 
 🔧 Microsoft ower BI
 
-![imagem da dashboard](https://github.com/ceciliasilvads/dashboard-logistica/blob/main/img-logistica.png)
+![imagem da dashboard](https://github.com/ceciliasilvads/dashboards/blob/main/logistica.PNG)
+
+# 📊 Setor de Compras
+
+🎲 Análise dos gastos de uma empresa na compras de produtos em diversos fornecedores.
+
+🔧 Microsoft ower BI
+
+![imagem da dashboard](https://github.com/ceciliasilvads/dashboards/blob/main/compras.PNG)
+
+# 📊 Manutenção de Equipamentos
+
+🎲 Dashboard que apresenta a análise do histórico das manutenção de equipamentos de uma empresa .
+
+🔧 Microsoft ower BI
+
+![imagem da dashboard](https://github.com/ceciliasilvads/dashboards/blob/main/manutencao.PNG)
