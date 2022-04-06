@@ -10,7 +10,7 @@
 
 # 📊 Resultados do Setor de Logística
 
-🎲 Análise e reporte dos resultados do setor de logítica de uma empresa.
+🎲 Análise e reports dos resultados do setor de logítica de uma empresa.
 
 🔧 Microsoft ower BI
 
