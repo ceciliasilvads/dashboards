@@ -12,7 +12,7 @@
 
 🎲 Análise e reports dos resultados do setor de logítica de uma empresa.
 
-🔧 Microsoft ower BI
+🔧 Microsoft Power BI
 
 ![imagem da dashboard](https://github.com/ceciliasilvads/dashboards/blob/main/logistica.PNG)
 
@@ -20,7 +20,7 @@
 
 🎲 Análise dos gastos de uma empresa na compras de produtos em diversos fornecedores.
 
-🔧 Microsoft ower BI
+🔧 Microsoft Power BI
 
 ![imagem da dashboard](https://github.com/ceciliasilvads/dashboards/blob/main/compras.PNG)
 
@@ -28,6 +28,6 @@
 
 🎲 Dashboard que apresenta a análise do histórico das manutenção de equipamentos de uma empresa .
 
-🔧 Microsoft ower BI
+🔧 Microsoft Power BI
 
 ![imagem da dashboard](https://github.com/ceciliasilvads/dashboards/blob/main/manutencao.PNG)
